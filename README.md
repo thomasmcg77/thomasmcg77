@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomasmcg77
 - 👀 I’m interested in IOT, embedded systems development, and web development.
-- 🌱 I’m currently learning Reactjs, C/C++, and Django.
+- 🌱 I’m currently learning Reactjs, C/C++, and x86 Assembly Language.
 - 💞️ I’m looking to collaborate on projects involving web development
 - 📫 How to reach me: thomas.mcguigan@slu.edu
 - Checkout my portfolio! (https://portfolio-b4004.web.app/)
