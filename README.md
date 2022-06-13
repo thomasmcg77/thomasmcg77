@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomasmcg77
 - 👀 I’m interested in web development, IOT, and decentralized technologies.
-- 🌱 I’m currently learning Reactjs/Nextjs, C/C++.
+- 🌱 I’m currently learning React.js/Next.js and Node.js
 - 📫 How to reach me: thomas.mcguigan@slu.edu.
 
 <!---
