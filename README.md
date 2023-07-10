@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in web development and embedded systems.
-- 🌱 I’m currently learning React.js, Express.js, and developing my skills in embedded systems development with C.
 - 📫 How to reach me: thomas.mcguigan@slu.edu or https://www.linkedin.com/in/thomasmcg/.
 
 <!---
